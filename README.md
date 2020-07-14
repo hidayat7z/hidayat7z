@@ -18,5 +18,7 @@ Here are some ideas to get you started:
   I’m a Machine Learning Enthusiast
   
   Website: https://hidayat7z.github.io/
+  
   Linkedin: https://www.linkedin.com/in/hidayat7/
+  
   Twitter: https://twitter.com/Hidayat7z
