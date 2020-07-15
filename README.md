@@ -17,9 +17,3 @@ Here are some ideas to get you started:
   I’m currently a 3rd year CS Undergrad who is very interested in the fields of Machine Learning and Artificial Intelligence.
   
   Website : https://hidayat7z.github.io/
-  
-  Linkedin : https://www.linkedin.com/in/hidayat7/
-  
-  HackerRank : https://www.hackerrank.com/hidayat7z
-  
-  Twitter : https://twitter.com/Hidayat7z
