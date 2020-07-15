@@ -17,8 +17,10 @@ Here are some ideas to get you started:
   I’m currently a 3rd year CS Undergrad
   I’m a Machine Learning Enthusiast
   
-  Website: https://hidayat7z.github.io/
+  Website : https://hidayat7z.github.io/
   
-  Linkedin: https://www.linkedin.com/in/hidayat7/
+  Linkedin : https://www.linkedin.com/in/hidayat7/
   
-  Twitter: https://twitter.com/Hidayat7z
+  HackerRank : https://www.hackerrank.com/hidayat7z
+  
+  Twitter : https://twitter.com/Hidayat7z
