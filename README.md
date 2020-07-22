@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  I’m currently a 3rd year CS Undergrad who is very interested in the fields of Machine Learning and Artificial Intelligence.
+  I’m currently a 3rd year CS Undergrad.
   
-  Website : https://hidayat7z.github.io/
+  Machine Learning and Artificial Intelligence ENTHUSIAST.
+  
+  Portfolio : https://hidayat7z.github.io/
