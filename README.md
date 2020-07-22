@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
   I’m currently a 3rd year CS Undergrad.
   
-  Machine Learning and Artificial Intelligence ENTHUSIAST.
+  I'm a Machine Learning and Artificial Intelligence ENTHUSIAST.
   
   Portfolio : https://hidayat7z.github.io/
