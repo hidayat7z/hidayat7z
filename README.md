@@ -1,9 +1,3 @@
-<!-- CREDITS- Mursal Furqan (https://github.com/mursalfk/mursalfk) -->
-
-<!-- [![HitCount](http://hits.dwyl.com/)](http://hits.dwyl.com/) 
-<div  align="center"><h2   align="center"
- </h2></div>-->
- 
 <div  align="center">
  <!--
  <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="80px" width="80px">  <img src="https://octodex.github.com/images/Robotocat.png" height="80px" width="80px"> -->
@@ -13,9 +7,6 @@
     <h2 align="center">Welcome To my <i><b> GitHub Profile </b></i></h2>
 </div>
 
-
-- 🔭 I’m currently working on my **Machine Leaarning** skills
-- 👯 Looking to collaborate on **Open Source Projects related to ML & AI**
 <!--
 - 🤔 I’m looking for help with **mentorship for Machine Learning**
 - 💬 Ask me about **Data Analysis and Visualization**
