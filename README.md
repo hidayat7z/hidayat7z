@@ -2,7 +2,7 @@
  
  <!--
  <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="80px" width="80px">  <img src="https://octodex.github.com/images/Robotocat.png" height="80px" width="80px"> -->
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br> I'm Md Hidayat Rasool <br></h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
  <hr>
