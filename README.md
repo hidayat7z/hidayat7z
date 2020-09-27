@@ -16,7 +16,7 @@
 <!-- - 👩‍💻 My **skills** are 👇 -->
 <h3>Connect with me:</h3>
 
-<div text-align: center>
+<div style="text-align: center">
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hidayat7z.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height=30px width=30px alt="Web"></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hidayat7/" target="_blank"><img src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" height=30px width=30px alt="LinkedIn"></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/hidayat7z" target="_blank"><img src="https://camo.githubusercontent.com/eacc870029bca30353239d9d629076ba4c18de75/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" height=30px width=30px alt="Twitter"></a>
  
