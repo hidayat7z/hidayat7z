@@ -14,7 +14,7 @@
 - 💬 Ask me about **Data Analysis and Visualization**
 -->
 <!-- - 👩‍💻 My **skills** are 👇 -->
-<h3>Connect with me:</h3>
+<h3>&nbsp;&nbsp;Connect with me:</h3>
 
 <div style="text-align: center">
 
