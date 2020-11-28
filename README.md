@@ -6,7 +6,6 @@
 <h2 align="center">Welcome To my <i><b> GitHub Profile </b></i></h2>
 
  <hr>
-    <h2 align="center">Welcome To my <i><b> GitHub Profile </b></i></h2>
 </div>
 
 <!--
