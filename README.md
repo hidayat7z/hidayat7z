@@ -13,6 +13,12 @@ My name is Md Hidayat Rasool and I am a Computer Science Engineering Undergrad f
 
 -->
 
+
+
+### 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hidayat7z&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=My+GitHub+Stats&show_icons=true" />
+
 ---
 
 ### Send me a message!
@@ -41,7 +47,3 @@ My name is Md Hidayat Rasool and I am a Computer Science Engineering Undergrad f
 </p>
 
 ---
-
-### 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hidayat7z&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=My+GitHub+Stats&show_icons=true" />
