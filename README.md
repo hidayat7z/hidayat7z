@@ -4,6 +4,8 @@
 
 My name is Md Hidayat Rasool and I am a Computer Science Engineering Undergrad from Kolkata,India. I am a Machine Learning Enthusiast.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hidayat7z" alt="hidayat7z" /> </p>
+
 ---
 <!--
 
