@@ -2,7 +2,7 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-My name is Md Hidayat Rasool and I am a Computer Science Engineering Undergrad from Kolkata,India. I am currently exploring Machine Learning.
+My name is Md Hidayat Rasool and I am a Software Engineer from Kolkata,India.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hidayat7z" alt="hidayat7z" /> </p>
 
